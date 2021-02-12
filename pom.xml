@@ -6,7 +6,7 @@
 
     <groupId>com.jogog</groupId>
     <artifactId>ci_test</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <scm>
         <developerConnection>scm:git:https://github.com/${project.groupId}/${project.artifactId}</developerConnection>
         <tag>HEAD</tag>
