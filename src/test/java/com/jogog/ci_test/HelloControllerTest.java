@@ -8,6 +8,6 @@ class HelloControllerTest {
 
     @Test
     void index() {
-        assertEquals(2,  1);
+        assertEquals(2,  2);
     }
 }
