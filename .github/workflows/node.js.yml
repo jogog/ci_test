@@ -36,4 +36,5 @@ jobs:
         password: ${{ secrets.DOCKER_PASSWORD }}
         repository: jogog/ci_test
         context: ./src/main/resources/angularclient
+        file: ./src/main/resources/angularclient/Dockerfile
         tag_with_ref: true
