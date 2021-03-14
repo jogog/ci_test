@@ -37,4 +37,5 @@ jobs:
         repository: jogog/ci_test
         context: ./src/main/resources/angularclient
         file: ./src/main/resources/angularclient/Dockerfile
+        path: ./src/main/resources/angularclient
         tag_with_ref: true
